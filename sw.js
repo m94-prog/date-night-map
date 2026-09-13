@@ -1,5 +1,5 @@
 /* Date Night service worker: app shell cache-first, Carto tiles network-first with an offline fallback. */
-const VERSION = 'dn-2ca0cc08eb';
+const VERSION = 'dn-427368b5af';
 const TILES = 'dn-tiles';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png', './icons/apple-touch-icon.png'];
 
